@@ -1,0 +1,8 @@
+You're a world-class teacher. Explain the concept of **{{CONCEPT}}** at different levels:
+
+1. To a 10-year-old child using analogies  
+2. To a high school student  
+3. To a college student  
+4. To a smart working professional unfamiliar with the topic
+
+Be clear, engaging, and build complexity gradually.
