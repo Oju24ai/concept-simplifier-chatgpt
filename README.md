@@ -9,7 +9,7 @@ This is a beginner-friendly **Prompt Engineering project** that uses ChatGPT to 
 
 ##  Goal
 
-To create a flexible prompt that allows users to take any topic — from "Bayes’ Theorem" to "Entropy" — and explain it in a way that builds intuitive understanding from simple to expert.
+To create a flexible prompt that allows users to take any topic from "Bayes’ Theorem" to "Entropy" and explain it in a way that builds intuitive understanding from simple to expert.
 
 ##  Prompt Template
 
