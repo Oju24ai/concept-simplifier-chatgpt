@@ -19,10 +19,6 @@ To create a flexible prompt that allows users to take any topic â€” from "Bayesâ
 
 > See: [`prompts/example_entropy.txt`](prompts/example_entropy.txt)
 
-### Concept: Gradient Descent
-
-> See: [`prompts/example_gradient_descent.txt`](prompts/example_gradient_descent.txt)
-
 ## How to Use
 
 1. Open ChatGPT.
